@@ -1,0 +1,10 @@
+Converting a WhatsApp Chat text file to excel
+
+
+This method does not require an online software
+
+1. First, export whatsapp chat from mobile device and share to PC via mail.
+    - For iPhone, got to settings > click on 'Chats' > click on 'Export Chat' > Select the chat you want to export > select with or without media > then save file.
+    - For Android, select a chat > click on the three dots icon by the top right corner of your screen > select 'More' > 'Export Chat' > select with or without media > save file.
+
+2. Download file on PC and save in the same folder as the python script.
